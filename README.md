@@ -187,7 +187,7 @@ Requirement Gathering → BRD → FRD → User Stories → Wireframes → Produc
 
 # Author
 
-**Chanderkant Bhardwaj**
+**Chanderkant**
 
 Business Analyst | MIS Executive
 
