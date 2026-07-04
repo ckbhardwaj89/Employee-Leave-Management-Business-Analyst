@@ -87,8 +87,8 @@ Requirement Gathering → BRD → FRD → User Stories → Wireframes → Produc
 
 # Project Documents
 
-- 📄 BRD.pdf
-- 📄 FRD.pdf
+- 📄 [Business Requirement Document (BRD)](BRD.pdf)
+- 📄 [Functional Requirement Document (FRD)](FRD.pdf)
 
 ---
 
